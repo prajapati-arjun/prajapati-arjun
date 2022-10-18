@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![@arjunprajapati's Holopin board](https://holopin.me/arjunprajapati)](https://holopin.io/@arjunprajapati)
+(https://holopin.me/arjunprajapati)](https://holopin.io/@arjunprajapati)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapati-arjun&label=Profile%20views&color=0e75b6&style=flat" alt="prajapati-arjun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajapati-arjun" alt="prajapati-arjun" /></a> </p>
